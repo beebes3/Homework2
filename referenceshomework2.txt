@@ -1,0 +1,7 @@
+References and Collaborations
+I did not collaborate with anyone while working on this assignment.
+Accessed w3schools to use different style properties.
+https://www.w3schools.com/css/default.asp
+https://www.w3schools.com/cssref/pr_font_font-size.asp
+https://www.w3schools.com/cssref/pr_font_font-family.asp
+https://www.w3schools.com/cssref/css3_pr_opacity.asp
